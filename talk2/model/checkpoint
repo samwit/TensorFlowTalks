@@ -1,0 +1,2 @@
+model_checkpoint_path: "GAN_model1.ckpt"
+all_model_checkpoint_paths: "GAN_model1.ckpt"
